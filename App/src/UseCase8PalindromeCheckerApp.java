@@ -14,7 +14,7 @@ public class UseCase8PalindromeCheckerApp {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a string: ");
+        System.out.print("Enter a     string: ");
         String input = scanner.nextLine();
 
         Node head = null;
